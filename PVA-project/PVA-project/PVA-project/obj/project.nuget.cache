@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9vaI4++kgSEqZaGalTP4sQKdl37MPXSjYKSki3ZfhFbIRoZG2/77/y8FdSdYKEV9YMyYzFDe4ebYlNsnO9cBNg==",
+  "dgSpecHash": "d3GVIkz/QRnc7tNA9ZE/+LW/kfJCWPNhtPd8V038d97q/jtd4NKiO6lUGBUjJ7s2j9tbT2S8/40GfnZznZgpxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\janrg\\OneDrive\\Documents\\Moje programy - C#\\ZE SKOLY\\PVA-project\\PVA-project\\PVA-project.csproj",
+  "projectFilePath": "E:\\Others\\Others\\PVA-project\\PVA-project\\PVA-project\\PVA-project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\janrg\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\janrg\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

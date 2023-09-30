@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janrg\\OneDrive\\Documents\\Moje programy - C#\\ZE SKOLY\\PVA-project\\PVA-project\\PVA-project.csproj": {}
+    "E:\\Others\\Others\\PVA-project\\PVA-project\\PVA-project\\PVA-project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janrg\\OneDrive\\Documents\\Moje programy - C#\\ZE SKOLY\\PVA-project\\PVA-project\\PVA-project.csproj": {
+    "E:\\Others\\Others\\PVA-project\\PVA-project\\PVA-project\\PVA-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janrg\\OneDrive\\Documents\\Moje programy - C#\\ZE SKOLY\\PVA-project\\PVA-project\\PVA-project.csproj",
+        "projectUniqueName": "E:\\Others\\Others\\PVA-project\\PVA-project\\PVA-project\\PVA-project.csproj",
         "projectName": "PVA-project",
-        "projectPath": "C:\\Users\\janrg\\OneDrive\\Documents\\Moje programy - C#\\ZE SKOLY\\PVA-project\\PVA-project\\PVA-project.csproj",
+        "projectPath": "E:\\Others\\Others\\PVA-project\\PVA-project\\PVA-project\\PVA-project.csproj",
         "packagesPath": "C:\\Users\\janrg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janrg\\OneDrive\\Documents\\Moje programy - C#\\ZE SKOLY\\PVA-project\\PVA-project\\obj\\",
+        "outputPath": "E:\\Others\\Others\\PVA-project\\PVA-project\\PVA-project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
